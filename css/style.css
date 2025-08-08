@@ -1,0 +1,23 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&display=swap');*/
+
+.rahma{
+    color:#00f;
+   /* animation-delay: 3s;*/
+   /* animation-duration: 4s;*/
+   /* animation-iteration-count: infinite;*/
+}
+/*body{
+      font-family: "Libertinus Sans", sans-serif;
+}*/
+
+/*Defult height for small devices*/
+#intro-example{
+      height: 400px;
+}
+
+/*Height for devices larger than 992px*/
+@media (min-width: 992px){
+      #intro-example{
+            height: 600px;
+      }
+}
