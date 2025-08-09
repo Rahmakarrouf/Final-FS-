@@ -22,8 +22,12 @@
       }
 }
 #intro-example {
-  background-image: url("img/FS.png"); 
-  background-size: cover; 
-  background-position: center; 
-  background-repeat: no-repeat; 
+   background-image: url("img/FS.png"); 
+   height: 600px;
+   background-size="cover";
+   background-position="center";
+   background-attachment="fixed";
+            
+  
 }
+
